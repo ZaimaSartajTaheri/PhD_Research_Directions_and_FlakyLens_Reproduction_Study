@@ -25,7 +25,7 @@ The `FlakyLens/` folder contain the code, documentation, and outputs for the rep
 
 The three experimental runs are summarized below.
 
-| Experimental Run | Run Description | Async Wait | Concurrency | Time | Unordered Collections | Test Order Dependency | Non-flaky | Macro Avg. |
+| Experimental Run | Run Description | Async Wait | Concurrency | Time | Unordered Collections | Test Order Dependency | Non-flaky | Macro F1-score Avg. |
 |---|---|---:|---:|---:|---:|---:|---:|---:|
 | **Run 1** | Paper methodology, without SMOTE, seed 42 | 58.25 | 20.00 | 74.29 | 54.55 | 34.11 | 99.95 | **56.86** |
 | **Run 2** | Released implementation with SMOTE, seed 14 | 55.24 | 24.56 | 63.49 | 76.54 | 58.82 | 99.94 | **63.10** |

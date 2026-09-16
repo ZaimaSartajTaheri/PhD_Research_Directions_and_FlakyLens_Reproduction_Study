@@ -19,7 +19,7 @@ The `FlakyLens/` folder contain the code, documentation, and outputs for the rep
 | [Run 2.1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.1%20FlakyLensRQ1WithSmoteFold2.ipynb) | Code |
 | [Run 2.2](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.2%20FlakyLensRQ1WithSmoteFold134.ipynb) | Code |
 | [Run 3](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/3.FlakyLensWithSavedProjectWeight.ipynb) | Code |
-| [Analysis Report](./artifact/ARTIFACT_PDF) | PDF |
+| [Analysis Report](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/FlakyLens_Reproduction_Study_and_Research_Directions.pdf) | PDF |
 
 ### Experimental Results
 
@@ -47,5 +47,5 @@ Detailed experimental settings, observations, and analysis are provided in the a
 ### FlTools Structure
 
 - 📁 **[FlTools](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/tree/main/FLTools)**
-  - 💻 **[Code](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/FLTools.ipynb))** — FlakyLens tooling/code
-  - 📄 **[PDF](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/Flaky_Test_Tools_Exploration.pdf))** — Documentation of the work carried out to analyze IDoFT, explore the tools, and identify the limitations observed during the study.
+  - 💻 **[Code](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/FLTools.ipynb)** — FlakyLens tooling/code
+  - 📄 **[PDF](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/Flaky_Test_Tools_Exploration.pdf)** — Documentation of the work carried out to analyze IDoFT, explore the tools, and identify the limitations observed during the study.

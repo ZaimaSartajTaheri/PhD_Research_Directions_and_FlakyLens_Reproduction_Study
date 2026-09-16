@@ -9,20 +9,17 @@ The repository is organized into two separate components:
 
 ## 1. FlakyLens Reproduction
 
-The `FlakyLens/` folder contains the files used for the FlakyLens reproduction experiments.
+The `FlakyLens/` folder contain the code, documentation, and outputs for the reproduction experiments. The detailed results and discussion of the three runs are provided in the accompanying PDF. Run 2.1 and Run 2.2 are split into two notebooks because the experiment was executed separately for Fold 2 and Folds 1, 3, and 4 due to GPU/runtime constraints.
 
 ### Artifact Contents
 
 | File | Description |
 |---|---|
 | [Run 1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/1.%20FlakyLensRQ1WithoutSmote.ipynb) | Reproduction code |
-| [Run 2.1](./artifact/FILE_2) | Reproduction code |
-| [Run 2.2](./artifact/FILE_3) | Reproduction code |
-| [Run 3](./artifact/FILE_4) | Reproduction code |
-| [Analysis Report PDF](./artifact/ARTIFACT_PDF) | Artifact documentation |
-| [Result Table 1](./artifact/RESULT_1) | Experimental result |
-| [Result Table 2](./artifact/RESULT_2) | Experimental result |
-| [Result Table 3](./artifact/RESULT_3) | Experimental result |
+| [Run 2.1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.1%20FlakyLensRQ1WithSmoteFold2.ipynb) | Reproduction code |
+| [Run 2.2](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.2%20FlakyLensRQ1WithSmoteFold134.ipynb) | Reproduction code |
+| [Run 3](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/3.FlakyLensWithSavedProjectWeight.ipynb) | Reproduction code |
+| [Analysis Report](./artifact/ARTIFACT_PDF) | PDF |
 
 ### Experimental Results
 
@@ -40,32 +37,15 @@ Detailed experimental settings, observations, and analysis are provided in the a
 
 - **Platform:** Kaggle GPU
 - **Model:** Microsoft CodeBERT
-- **Cross-validation:** Project-wise 4-fold
-- **Maximum sequence length:** 512
-- **Batch size:** 8
-- **Learning rate:** 1e-5
-- **Weight decay:** 0.01
-- **Dropout:** 0.30
-- **Focal loss gamma:** 2
-- **Maximum epochs:** 30
-- **Early stopping patience:** 10
-- **Gradient clipping:** 1.0
-
-### Reproduction Files
-
-The files in `artifact/` contain the code, documentation, and outputs for the reproduction experiments. The detailed results and discussion of the three runs are provided in the accompanying PDF.
 
 ---
 
 ## 2. FlTools
 
-`FlTools/` is a **separate component from the FlakyLens reproduction**.
-
-It contains the FlakyLens tooling and a separate PDF documenting the work carried out using the tooling and the limitations identified during the study.
+`FLTools` contains the FlakyLens tooling and a separate PDF documenting the work carried out to analyze IDoFT, explore the tools, and identify the limitations observed during the study.
 
 ### FlTools Structure
 
-```text
-FlTools/
-├── [FlTools Code File]
-└── [FlTools PDF]
+- 📁 **[FlTools](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/tree/main/FlTools)**
+  - 💻 **[Code]([YOUR_FLTOOLS_CODE_LINK](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/FLTools.ipynb))** — FlakyLens tooling/code
+  - 📄 **[PDF]([YOUR_FLTOOLS_PDF_LINK](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/Flaky_Test_Tools_Exploration.pdf))** — Documentation of the work carried out to analyze IDoFT, explore the tools, and identify the limitations observed during the study.

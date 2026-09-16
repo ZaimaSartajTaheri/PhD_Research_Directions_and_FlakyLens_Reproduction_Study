@@ -15,10 +15,10 @@ The `FlakyLens/` folder contain the code, documentation, and outputs for the rep
 
 | File | Description |
 |---|---|
-| [Run 1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/1.%20FlakyLensRQ1WithoutSmote.ipynb) | Reproduction code |
-| [Run 2.1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.1%20FlakyLensRQ1WithSmoteFold2.ipynb) | Reproduction code |
-| [Run 2.2](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.2%20FlakyLensRQ1WithSmoteFold134.ipynb) | Reproduction code |
-| [Run 3](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/3.FlakyLensWithSavedProjectWeight.ipynb) | Reproduction code |
+| [Run 1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/1.%20FlakyLensRQ1WithoutSmote.ipynb) | Code |
+| [Run 2.1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.1%20FlakyLensRQ1WithSmoteFold2.ipynb) | Code |
+| [Run 2.2](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/2.2%20FlakyLensRQ1WithSmoteFold134.ipynb) | Code |
+| [Run 3](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/3.FlakyLensWithSavedProjectWeight.ipynb) | Code |
 | [Analysis Report](./artifact/ARTIFACT_PDF) | PDF |
 
 ### Experimental Results
@@ -46,6 +46,6 @@ Detailed experimental settings, observations, and analysis are provided in the a
 
 ### FlTools Structure
 
-- 📁 **[FlTools](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/tree/main/FlTools)**
-  - 💻 **[Code]([YOUR_FLTOOLS_CODE_LINK](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/FLTools.ipynb))** — FlakyLens tooling/code
-  - 📄 **[PDF]([YOUR_FLTOOLS_PDF_LINK](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/Flaky_Test_Tools_Exploration.pdf))** — Documentation of the work carried out to analyze IDoFT, explore the tools, and identify the limitations observed during the study.
+- 📁 **[FlTools](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/tree/main/FLTools)**
+  - 💻 **[Code](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/FLTools.ipynb))** — FlakyLens tooling/code
+  - 📄 **[PDF](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FLTools/Flaky_Test_Tools_Exploration.pdf))** — Documentation of the work carried out to analyze IDoFT, explore the tools, and identify the limitations observed during the study.

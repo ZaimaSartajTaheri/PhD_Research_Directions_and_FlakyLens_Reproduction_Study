@@ -15,7 +15,7 @@ The `FlakyLens/` folder contains the files used for the FlakyLens reproduction e
 
 | File | Description |
 |---|---|
-| [Run 1](FlakyLens/1. FlakyLensRQ1WithoutSmote.ipynb) | Reproduction code |
+| [Run 1](https://github.com/ZaimaSartajTaheri/PhD_Research_Directions_and_FlakyLens_Reproduction_Study/blob/main/FlakyLens/1.%20FlakyLensRQ1WithoutSmote.ipynb) | Reproduction code |
 | [Run 2.1](./artifact/FILE_2) | Reproduction code |
 | [Run 2.2](./artifact/FILE_3) | Reproduction code |
 | [Run 3](./artifact/FILE_4) | Reproduction code |

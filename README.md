@@ -1,27 +1,25 @@
 # FlakyLens Reproduction Study and Research Directions
 
-This repository contains my reproduction study of **FlakyLens** and the research directions developed from the reproduction and the limitations identified during the study.
-
 The repository is organized into two separate components:
 
 1. **FlakyLens Reproduction** – reproduction experiments, artifact files, and experimental results.
-2. **FlTools** – the separate FlakyLens tooling and its associated documentation.
+2. **FlTools** – the separate FlakyLens tooling(IDoFT, iDFlakies, NonDex) and its associated documentation.
 
 ---
 
 ## 1. FlakyLens Reproduction
 
-The `artifact/` folder contains the files used for the FlakyLens reproduction experiments.
+The `FlakyLens/` folder contains the files used for the FlakyLens reproduction experiments.
 
 ### Artifact Contents
 
 | File | Description |
 |---|---|
-| [Code File 1](./artifact/FILE_1) | Reproduction code |
-| [Code File 2](./artifact/FILE_2) | Reproduction code |
-| [Code File 3](./artifact/FILE_3) | Reproduction code |
-| [Code File 4](./artifact/FILE_4) | Reproduction code |
-| [Artifact PDF](./artifact/ARTIFACT_PDF) | Artifact documentation |
+| [Run 1](./FlakyLens/1. FlakyLensRQ1WithoutSmote.ipynb) | Reproduction code |
+| [Run 2.1](./artifact/FILE_2) | Reproduction code |
+| [Run 2.2](./artifact/FILE_3) | Reproduction code |
+| [Run 3](./artifact/FILE_4) | Reproduction code |
+| [Analysis Report PDF](./artifact/ARTIFACT_PDF) | Artifact documentation |
 | [Result Table 1](./artifact/RESULT_1) | Experimental result |
 | [Result Table 2](./artifact/RESULT_2) | Experimental result |
 | [Result Table 3](./artifact/RESULT_3) | Experimental result |
